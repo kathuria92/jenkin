@@ -1,0 +1,1 @@
+ls -larth /var/log
